@@ -5,7 +5,7 @@
 <title>ログインフォーム</title>
 </head>
 <body>
-<% out.print("Hello, "); %>
+
 
 </body>
 </html>
