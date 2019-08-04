@@ -10,7 +10,7 @@
        <hr>
         <div align="center">
             <table border="0">
-                <form action="todo" method="post">
+                <form action="LoginForm" method="post">
                     <tr>
                         <th class="login_field">
                             ユーザID
